@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXTJs**
 
-- 👯 I’m looking to collaborate on **Web development, Android Development**
+- 👯 I’m looking to collaborate on **Web development, Android Development and MachineLearning**
 
 - 👨‍💻 All of my projects are available at [https://sriramadari.github.io/PORTFOLIO-1.0/](https://sriramadari.github.io/PORTFOLIO-1.0/)
 
