@@ -1,5 +1,7 @@
-# 💫 About Me:
-<b>HI ,I am Sriram Adari<b>, Passionate FullStack Developer<br><br>🌱 I’m currently learning NEXTJs<br><br>👯 I’m looking to collaborate on Web development, Android Development and MachineLearning<br><br>👨‍💻 All of my projects are available at https://sriramadari.github.io/PORTFOLIO-1.0/<br><br>💬 Ask me about MERN STACK<br><br>📫 How to reach me sriramadari.dev@gmail.com
+<h1 align="center">Hey 👋, I'm Sriram Adari</h1>
+<h3 align="center">Passionate Full-Stack Developer and Machine Learning enthusiast</h3>
+
+<br>🌱 I’m currently learning NEXTJs<br><br>👯 I’m looking to collaborate on Web development, Android Development and MachineLearning<br><br>👨‍💻 All of my projects are available at https://sriramadari.github.io/PORTFOLIO-1.0/<br><br>💬 Ask me about DEV<br><br>📫 How to reach me sriramadari.dev@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sriramadari#5870) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sriramadari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriramadari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramadari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakshmisriramadari1427) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sriramadari) 
