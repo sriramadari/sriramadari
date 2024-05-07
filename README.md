@@ -1,13 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+SRIRAM+ADARI....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Sriram+Adari⚡;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=sriramadari&color=brightgreen)
 
 
-<br>🌱 I’m currently learning NEXTJs<br><br>👯 I’m looking to collaborate on Web development, Android Development and MachineLearning<br><br>👨‍💻 All of my projects are available at https://sriramadari.github.io/PORTFOLIO-1.0/<br><br>💬 Ask me about DEV<br><br>📫 How to reach me sriramadari.dev@gmail.com
+- 🌱 Currently learning NEXTJs.
+- 🤝 Looking to contribute for Open-source Organizations
+- 👨‍💻 Intrested in FullStack,ReactNative,Devops,DSA.
+- 💬 Ask me about DEV.
+- 📫 How to reach me sriramadari.dev@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sriramadari#5870) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sriramadari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriramadari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramadari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakshmisriramadari1427) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sriramadari) 
@@ -32,7 +36,8 @@
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ---
 ### My Github Stats:
 
