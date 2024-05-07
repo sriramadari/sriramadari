@@ -12,7 +12,7 @@
 !<div align="center">
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramadari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriramadari&theme=dark&hide_border=true)<br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramadaei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramadari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 </div>
 
 
