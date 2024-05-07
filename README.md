@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sriram Adari</h1>
-<h3 align="center">Passionate Full-Stack Developer and Machine Learning enthusiast</h3>
+<h3 align="center">Full-Stack Developer and React Native Developer </h3>
 
 <br>🌱 I’m currently learning NEXTJs<br><br>👯 I’m looking to collaborate on Web development, Android Development and MachineLearning<br><br>👨‍💻 All of my projects are available at https://sriramadari.github.io/PORTFOLIO-1.0/<br><br>💬 Ask me about DEV<br><br>📫 How to reach me sriramadari.dev@gmail.com
 
