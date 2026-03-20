@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Sriram+Adari+⚡;Full+Stack+Developer+%7C+React+Native+Engineer;Building+Production-Ready+Apps+🚀&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Sriram+Adari+⚡;Full+Stack+Developer&center=true&size=28">
   </a>
 </h1>
 
@@ -8,12 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=sriramadari&color=brightgreen" alt="Profile views" />
 </p>
 
-## 💫 About Me
+## About Me
 
 - 🚀 Full Stack Developer with **2+ years of hands-on experience** building and shipping **web & mobile applications**
 - 📱 Built and contributed **end-to-end** to production apps using **React Native, React.js, Node.js, Express.js, and MongoDB**
-- 🛠️ Experienced in **Play Store / App Store deployments**, **push notifications**, and **frequent OTA updates**
-- ⚡ Worked on scalable backend workflows using **Redis BullMQ**, **AWS SES**, and modern backend architecture
+- ⚡ Worked on scalable backend workflows using **Redis BullMQ**, **AWS**, **AZURE** , **Docker** and modern backend architecturer
+- 🤖 Experience working with AI chatbots, LLM integrations, and agent-based automation
 - 🤝 Open to collaborating on **Full Stack / React Native / Backend / Open Source** projects
 - 💬 Ask me about **React Native, React.js, Node.js, Express.js, MongoDB, REST APIs, and product development**
 - 📫 Reach me at **sriramadari.dev@gmail.com**
